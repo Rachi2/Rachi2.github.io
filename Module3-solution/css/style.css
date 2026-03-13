@@ -1,1 +1,38 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
 
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.content-box {
+  background-color: #999999;
+  padding: 20px;
+  margin-bottom: 20px;
+  height: 1200px; /* for the scroll */
+  color: black;
+}
+
+#nav-collapse {
+  padding: 0;
+}
+
+.navbar-nav {
+  margin: 0;
+  background-color: #f8f8f8;
+  border-top: 1px solid #e7e7e7;
+}
+
+.navbar-nav li a {
+  border-bottom: 1px solid #e7e7e7;
+  padding: 10px;
+}
